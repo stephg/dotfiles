@@ -1,0 +1,4 @@
+[submodule "modules/history-substring-search/external"]
+[submodule "prezto"]
+	path = prezto
+	url = git@github.com:stephg/prezto.git
